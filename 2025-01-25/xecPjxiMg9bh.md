@@ -1,0 +1,61 @@
+### 代码主要改动
+
+#### package-lock.json
+1. **新增依赖**:
+   - `@ant-design/x`: 版本 `^1.0.5`
+   - `@element-plus/icons-vue`: 版本 `^2.3.1`
+   - `@ant-design/colors`: 版本 `7.2.0`
+   - `@ant-design/cssinjs`: 版本 `1.23.0`
+   - `@ant-design/cssinjs-utils`: 版本 `1.1.3`
+   - `@ant-design/fast-color`: 版本 `2.0.6`
+   - `@ant-design/icons`: 版本 `5.6.0`
+   - `@ant-design/icons-svg`: 版本 `4.4.2`
+   - `@ant-design/react-slick`: 版本 `1.1.2`
+   - `@babel/helper-string-parser`: 版本 `7.25.9`
+   - `@babel/runtime`: 版本 `7.26.7`
+   - `@babel/types`: 版本 `7.26.5`
+   - `@emotion/hash`: 版本 `0.8.0`
+   - `@emotion/unitless`: 版本 `0.7.5`
+   - `@esbuild/aix-ppc64`: 版本 `0.24.2`
+   - `@rc-component/async-validator`: 版本 `5.0.4`
+   - `@rc-component/color-picker`: 版本 `2.0.1`
+   - `@rc-component/context`: 版本 `1.4.0`
+   - `@rc-component/mini-decimal`: 版本 `1.1.0`
+   - `@rc-component/mutate-observer`: 版本 `1.1.0`
+   - `@rc-component/portal`: 版本 `1.1.2`
+   - `@rc-component/qrcode`: 版本 `1.0.0`
+   - `@rc-component/tour`: 版本 `1.15.1`
+   - `@rc-component/trigger`: 版本 `2.2.6`
+   - `node_modules/antd`: 版本 `5.23.2`
+   - `node_modules/async-validator`: 版本 `4.2.5`
+   - `node_modules/classnames`: 版本 `2.5.1`
+   - `node_modules/combined-stream`: 版本 `1.0.8`
+   - `node_modules/compute-scroll-into-view`: 版本 `3.1.1`
+   - `node_modules/copy-to-clipboard`: 版本 `3.3.3`
+   - `node_modules/core-js`: 版本 `3.40.0`
+   - `node_modules/json2mq`: 版本 `0.2.0`
+   - `node_modules/lodash`: 版本 `4.17.21`
+   - `node_modules/rc-cascader`: 版本 `3.33.0`
+   - `node_modules/rc-checkbox`: 版本 `3.5.0`
+   - `node_modules/rc-collapse`: 版本 `3.9.0`
+   - `node_modules/rc-dialog`: 版本 `9.6.0`
+   - `node_modules/rc-drawer`: 版本 `7.2.0`
+   - `node_modules/rc-dropdown`: 版本 `4.2.1`
+   - `node_modules/rc-field-form`: 版本 `2.7.0`
+   - `node_modules/rc-image`: 版本 `7.11.0`
+   - `node_modules/rc-input`: 版本 `1.7.2`
+   - `node_modules/rc-input-number`: 版本 `9.4.0`
+   - `node_modules/rc-mentions`: 版本 `2.19.1`
+   - `node_modules/rc-menu`: 版本 `9.16.0`
+   - `node_modules/rc-motion`: 版本 `2.9.5`
+   - `node_modules/rc-notification`: 版本 `5.6.2`
+   - `node_modules/rc-pagination`: 版本 `5.0.0`
+   - `node_modules/rc-picker`: 版本 `4.9.2`
+   - `node_modules/rc-progress`: 版本 `4.0.0`
+   - `node_modules/rc-rate`: 版本 `2.13.0`
+   - `node_modules/rc-resize-observer`: 版本 `1.4.3`
+   - `node_modules/rc-segmented`: 版本 `2.7.0`
+   - `node_modules/rc-select`: 版本 `14.16.6`
+   - `node_modules/rc-slider`: 版本 `11.1.8`
+   - `node_modules/rc-steps`: 版本 `6.0.1`
+  

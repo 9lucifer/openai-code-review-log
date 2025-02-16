@@ -1,0 +1,54 @@
+### 代码主要改动
+
+#### package-lock.json
+- 添加了新的依赖项：
+  - `markdown-it`: 更新到版本 `14.1.0`
+  - `marked`: 更新到版本 `15.0.7`
+  - `particles.vue3`: 更新到版本 `1.22.0`
+  - `uuid`: 更新到版本 `11.0.5`
+  - `linkify-it`: 更新到版本 `5.0.0`
+  - `uc.micro`: 更新到版本 `2.1.0`
+  - `punycode.js`: 更新到版本 `2.3.1`
+- 更新了现有依赖项的版本：
+  - `markdown-it` 的依赖项 `argparse` 更新到版本 `2.0.1`
+  - `markdown-it` 的依赖项 `entities` 更新到版本 `4.4.0`
+  - `markdown-it` 的依赖项 `mdurl` 更新到版本 `2.0.0`
+  - `markdown-it` 的依赖项 `uc.micro` 更新到版本 `2.1.0`
+  - `markdown-it` 的依赖项 `punycode.js` 更新到版本 `2.3.1`
+  - `marked` 的依赖项 `entities` 更新到版本 `4.4.0`
+  - `marked` 的依赖项 `mdurl` 更新到版本 `2.0.0`
+  - `marked` 的依赖项 `punycode.js` 更新到版本 `2.3.1`
+  - `marked` 的依赖项 `uc.micro` 更新到版本 `2.1.0`
+  - `markdown-it` 的依赖项 `uc.micro` 更新到版本 `2.1.0`
+  - `uuid` 的依赖项 `uc.micro` 更新到版本 `2.1.0`
+- 修改了依赖项的配置：
+  - `markdown-it` 的 `bin` 配置更新为 `bin/markdown-it.mjs`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `markdown-it` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >= 18`
+  - `marked` 的 `bin` 配置更新为 `bin/marked.js`
+  - `marked` 的 `engines` 配置更新为 `node: >=

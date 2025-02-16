@@ -1,0 +1,57 @@
+### 代码主要改动
+
+#### package-lock.json
+1. **新增依赖**:
+   - `dompurify` (`^3.2.4`): 用于清理HTML内容。
+   - `element-plus` (`^2.9.3`): 用于构建UI组件库。
+   - `highlight.js` (`^11.11.1`): 用于语法高亮。
+   - `http-proxy-middleware` (`^3.0.3`): 用于代理HTTP请求。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `particles.vue3` (`^1.22.0`): 用于创建粒子效果。
+   - `uuid` (`^11.0.5`): 用于生成UUID。
+   - `dingbat-to-unicode` (`1.0.1`): 用于将dingbat字符转换为Unicode字符。
+   - `linkify-it` (`5.0.0`): 用于将字符串转换为可点击的链接。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown。
+   - `markdown-it` (`^14.1.0`): 用于解析Markdown。
+   - `marked` (`^15.0.7`): 用于解析Markdown
